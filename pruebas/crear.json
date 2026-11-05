@@ -1,0 +1,1 @@
+{"query": "mutation { crearProducto(nombre: \"Mouse\", precio: 18000, stock: 20) { id nombre stock } }"}
